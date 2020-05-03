@@ -1,0 +1,6 @@
+Red 6
+SouthGate SODO Mercer Island Factoria Issaquah
+Green 5
+Renton Factoria Bellevue Kirkland Bothell
+Blue 5
+CapitalHill UWSeattle Lynnwood Bothell TotemLake
